@@ -4,6 +4,7 @@ Team name: The Runtime Terrors
 Team member's names and email addresses:
 Kali Jacobs KRJ68@pitt.edu (Kali's.ipynb, Kali'sFiredata.cvs,FinalNotebook(1).ipynb)
 Aaqib Sayyed aas201@pitt.edu (aaqib'sNote.ipynb)
+Xavier Marwaha XRM2@pitt.edu (Project-Code.ipynb)
 
 Canvas group number: Project Group 60 
 Description and Links to the datasets used
