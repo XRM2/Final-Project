@@ -1,6 +1,6 @@
 # Final-Project
 Final Project for CMPINF 0010
-Team name: The Runtime Terrors
+Team name: The Runtime Terrors  
 Team member's names and email addresses:
 Kali Jacobs KRJ68@pitt.edu (Kali's.ipynb, Kali'sFiredata.cvs,FinalNotebook(1).ipynb)
 Aaqib Sayyed aas201@pitt.edu (aaqib'sNote.ipynb)
