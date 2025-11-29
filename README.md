@@ -10,6 +10,7 @@ Canvas group number: Project Group 60
 Description and Links to the datasets used  
 Traffic data link: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh  
 Fire data link: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
+
 Crime data link: https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard/resource/bd41992a-987a-4cca-8798-fbe1cd946b07
 
 A one-sentence overview of your repository, meant for someone who is not familiar with the project:  
